@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "software": [
+        "Testing",
+        "Embedded System",
+        "Development"
+      ],
+      "location": "New York, USA",
+      "phone": "+1-555-1234",
+      "tasks": [
+        "Design and develop software solutions",
+        "Test embedded systems",
+        "Collaborate with cross-functional teams",
+        "Write and maintain documentation",
+        "Ensure software quality and performance"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Data Analyst",
+      "software": [
+        "Data Analysis",
+        "Python",
+        "SQL"
+      ],
+      "location": "San Francisco, USA",
+      "phone": "+1-555-5678",
+      "tasks": [
+        "Analyze large datasets",
+        "Create reports and dashboards",
+        "Develop data models and algorithms",
+        "Work with stakeholders to gather requirements",
+        "Ensure data accuracy and integrity"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Embedded Systems Engineer",
+      "software": [
+        "Embedded System",
+        "C",
+        "Microcontrollers"
+      ],
+      "location": "Austin, USA",
+      "phone": "+1-555-9101",
+      "tasks": [
+        "Develop and test embedded software",
+        "Work with microcontrollers and hardware interfaces",
+        "Troubleshoot hardware and software issues",
+        "Collaborate with product teams for product development",
+        "Ensure system reliability and optimization"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Embedded Linux Systems Engineer",
+      "software": [
+        "Embedded System",
+        "c++",
+        "Microcontrollers",
+        "Rust"
+      ],
+      "location": "Cairo, Egypt",
+      "phone": "01223776962",
+      "tasks": [
+        "Develop and test embedded software",
+        "Work with microcontrollers and hardware interfaces",
+        "Troubleshoot hardware and software issues",
+        "Collaborate with product teams for product development",
+        "Ensure system reliability and optimization"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Android Testing",
+      "software": [
+        "Embedded System",
+        "c++",
+        "Microcontrollers",
+        "Rust"
+      ],
+      "location": "Cairo, Egypt",
+      "phone": "01093701323",
+      "tasks": [
+        "Develop and test embedded software",
+        "Work with microcontrollers and hardware interfaces",
+        "Troubleshoot hardware and software issues",
+        "Collaborate with product teams for product development",
+        "Ensure system reliability and optimization"
+      ]
+    }
+  ]
+}
